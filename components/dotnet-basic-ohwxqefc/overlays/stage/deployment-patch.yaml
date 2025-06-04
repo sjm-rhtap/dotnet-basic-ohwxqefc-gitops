@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/dance-bootstrap-app:latest
+      - image: artifactory-docker-artifactory-jcr.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/dotnet-basic-ohwxqefc:c1a67bd9f6c930f260a673c3320b93e3de546171@sha256:f279518d791f26aef14b495009b944ff8a550bd361de8d1e17ca90d2235d5753
         name: container-image  
